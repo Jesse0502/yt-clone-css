@@ -6,6 +6,10 @@
   background-color: #242424;
 }
 
+.root {
+  background-color: #333333 !important;
+}
+
 @media all and (max-width: 500px) {
   .right-items {
     display: none;
